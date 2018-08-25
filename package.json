@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/darren-rose/slackbot-101#readme",
   "dependencies": {
+    "cpu-stats": "^1.0.0",
     "slackbots": "^1.1.0"
   }
 }
